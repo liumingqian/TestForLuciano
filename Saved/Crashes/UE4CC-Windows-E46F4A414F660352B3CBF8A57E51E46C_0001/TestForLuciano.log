@@ -1,0 +1,1022 @@
+﻿Log file open, 10/29/20 10:27:27
+LogInit: Display: Running engine for game: TestForLuciano
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.210890
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ImpostorBaker
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9700 CPU @ 3.00GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Install/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Engine.ini]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Engine.ini]
+[2020.10.29-02.27.27:642][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Engine.ini]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.29-02.27.27:642][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Engine.ini]
+[2020.10.29-02.27.27:642][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.29-02.27.27:643][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Engine.ini]
+[2020.10.29-02.27.27:643][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Engine.ini]
+[2020.10.29-02.27.27:647][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.29-02.27.27:647][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.29-02.27.27:648][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.29-02.27.27:648][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.29-02.27.27:648][  0]LogHAL: Display: Platform has ~ 32 GB [34185240576 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.29-02.27.27:648][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.29-02.27.27:648][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.29-02.27.27:648][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Scalability.ini]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.29-02.27.27:649][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Unreal/TestForLuciano/Saved/Config/Windows/Engine.ini]
+[2020.10.29-02.27.27:649][  0]LogInit: Computer: DESKTOP-9E78RVD
+[2020.10.29-02.27.27:649][  0]LogInit: User: admin
+[2020.10.29-02.27.27:649][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.10.29-02.27.27:650][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.29-02.27.27:650][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2020.10.29-02.27.27:650][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.29-02.27.27:650][  0]LogMemory: Process Physical Memory: 114.80 MB used, 114.81 MB peak
+[2020.10.29-02.27.27:650][  0]LogMemory: Process Virtual Memory: 96.94 MB used, 96.94 MB peak
+[2020.10.29-02.27.27:650][  0]LogMemory: Physical Memory: 12418.62 MB used,  20182.97 MB free, 32601.59 MB total
+[2020.10.29-02.27.27:650][  0]LogMemory: Virtual Memory: 5147.64 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.10.29-02.27.27:655][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.29-02.27.27:684][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.29-02.27.27:685][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.10.29-02.27.27:685][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.10.29-02.27.27:685][  0]LogInit: Using OS detected locale (zh-CN).
+[2020.10.29-02.27.27:848][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.29-02.27.27:905][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.29-02.27.27:905][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.29-02.27.28:007][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.29-02.27.28:007][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.29-02.27.28:007][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.29-02.27.28:007][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.29-02.27.28:070][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.10.29-02.27.28:070][  0]LogD3D11RHI:       8031/0/16300 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.10.29-02.27.28:086][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.10.29-02.27.28:086][  0]LogD3D11RHI:       128/0/16300 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.10.29-02.27.28:088][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.29-02.27.28:088][  0]LogD3D11RHI:       0/0/16300 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.29-02.27.28:088][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.29-02.27.28:097][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.29-02.27.28:097][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.29-02.27.28:097][  0]LogWindows: EnumDisplayDevices:
+[2020.10.29-02.27.28:097][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2020.10.29-02.27.28:097][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2020.10.29-02.27.28:098][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.10.29-02.27.28:098][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.10.29-02.27.28:098][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.10.29-02.27.28:098][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.10.29-02.27.28:098][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.10.29-02.27.28:098][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.10.29-02.27.28:098][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.10.29-02.27.28:098][  0]LogD3D11RHI:   Driver Version: 436.50 (internal:26.21.14.3650, unified:436.50)
+[2020.10.29-02.27.28:098][  0]LogD3D11RHI:      Driver Date: 9-30-2019
+[2020.10.29-02.27.28:098][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.10.29-02.27.28:142][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.10.29-02.27.28:142][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.29-02.27.28:142][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.29-02.27.28:240][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.29-02.27.28:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.29-02.27.28:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.29-02.27.28:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.29-02.27.28:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.29-02.27.28:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.29-02.27.28:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.29-02.27.28:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.29-02.27.28:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.29-02.27.28:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.29-02.27.28:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.29-02.27.28:668][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.29-02.27.28:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.29-02.27.28:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.29-02.27.28:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.29-02.27.28:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.29-02.27.28:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.29-02.27.28:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.29-02.27.28:732][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.29-02.27.28:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.29-02.27.28:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.29-02.27.28:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.29-02.27.28:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.29-02.27.28:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.29-02.27.28:787][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.29-02.27.28:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.29-02.27.28:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.29-02.27.28:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.29-02.27.28:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.29-02.27.28:821][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.29-02.27.28:829][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.29-02.27.28:883][  0]LogShaderCompilers: Guid format shader working directory is 21 characters bigger than the processId version (E:/Unreal/TestForLuciano/Intermediate/Shaders/WorkingDirectory/15060/).
+[2020.10.29-02.27.28:884][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin/AppData/Local/Temp/UnrealShaderWorkingDir/070177494695371CE604D1979B9829A1/'.
+[2020.10.29-02.27.28:884][  0]LogXGEController: Cleaning working directory: C:/Users/admin/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.10.29-02.27.28:884][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2020.10.29-02.27.29:607][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.29-02.27.29:655][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/admin/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.29-02.27.29:655][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.29-02.27.29:655][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Unreal/TestForLuciano/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.29-02.27.29:655][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.29-02.27.29:655][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Unreal/TestForLuciano/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.29-02.27.29:655][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.29-02.27.29:665][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.29-02.27.29:665][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.29-02.27.29:665][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.29-02.27.29:666][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.29-02.27.29:666][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.29-02.27.29:666][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.29-02.27.29:711][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.29-02.27.29:712][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.29-02.27.29:731][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.10.29-02.27.29:926][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.29-02.27.30:032][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.29-02.27.30:032][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.29-02.27.30:032][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.29-02.27.30:032][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.29-02.27.30:032][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.29-02.27.30:045][  0]LogNetVersion: TestForLuciano 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1162674664)
+[2020.10.29-02.27.30:386][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000023E31BFC340), frame # 0
+[2020.10.29-02.27.30:386][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023E31B45080), frame # 0
+[2020.10.29-02.27.30:387][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023E31B99E00), frame # 0
+[2020.10.29-02.27.30:438][  0]LogPackageLocalizationCache: Processed 20 localized package path(s) for 1 prioritized culture(s) in 0.045682 seconds
+[2020.10.29-02.27.30:444][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.29-02.27.30:444][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.29-02.27.30:444][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.29-02.27.30:757][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.29-02.27.30:762][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.29-02.27.30:835][  0]SourceControl: Source control is disabled
+[2020.10.29-02.27.30:835][  0]SourceControl: Source control is disabled
+[2020.10.29-02.27.30:838][  0]SourceControl: Source control is disabled
+[2020.10.29-02.27.30:841][  0]SourceControl: Source control is disabled
+[2020.10.29-02.27.30:848][  0]SourceControl: Source control is disabled
+[2020.10.29-02.27.31:071][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.29-02.27.31:091][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.29-02.27.31:092][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.29-02.27.31:136][  0]LogOcInput: OculusInput pre-init called
+[2020.10.29-02.27.31:145][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.29-02.27.31:145][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.29-02.27.31:203][  0]LogEngine: Initializing Engine...
+[2020.10.29-02.27.31:204][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.29-02.27.31:204][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.29-02.27.31:205][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.29-02.27.31:313][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.29-02.27.31:320][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.29-02.27.31:320][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023E348E8600), frame # 0
+[2020.10.29-02.27.31:320][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023E348DA480), frame # 0
+[2020.10.29-02.27.31:335][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.29-02.27.31:335][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.29-02.27.31:335][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.29-02.27.31:335][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.29-02.27.31:335][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.29-02.27.31:335][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.29-02.27.31:335][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.29-02.27.31:335][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.29-02.27.31:335][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.29-02.27.31:335][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.29-02.27.31:347][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.29-02.27.31:347][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.29-02.27.31:403][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2020.10.29-02.27.31:406][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.29-02.27.31:408][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.29-02.27.31:408][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.29-02.27.31:409][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.29-02.27.31:409][  0]LogInit: FAudioDevice initialized.
+[2020.10.29-02.27.31:410][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.29-02.27.31:476][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/admin/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.29-02.27.31:480][  0]LogInit: Texture streaming: Enabled
+[2020.10.29-02.27.31:498][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.29-02.27.31:498][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.29-02.27.31:507][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.29-02.27.31:553][  0]LogInit: Transaction tracking system initialized
+[2020.10.29-02.27.31:572][  0]BlueprintLog: New page: Editor Load
+[2020.10.29-02.27.31:635][  0]LocalizationService: Localization service is disabled
+[2020.10.29-02.27.32:106][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.29-02.27.32:106][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.29-02.27.32:220][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/TestForLuciano/Content/' took 0.00s
+[2020.10.29-02.27.32:384][  0]SourceControl: Source control is disabled
+[2020.10.29-02.27.32:384][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.773
+[2020.10.29-02.27.32:384][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.29-02.27.32:385][  0]LightingResults: New page: Lighting Build
+[2020.10.29-02.27.32:385][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-02.27.32:385][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-02.27.32:385][  0]MapCheck: New page: Map Check
+[2020.10.29-02.27.32:385][  0]LightingResults: New page: Lighting Build
+[2020.10.29-02.27.32:395][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023E348E8600), frame # 0
+[2020.10.29-02.27.32:395][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023E348DA480), frame # 0
+[2020.10.29-02.27.32:396][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.10.29-02.27.32:452][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.10.29-02.27.32:452][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023E260BA000), frame # 0
+[2020.10.29-02.27.32:452][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023E2571E340), frame # 0
+[2020.10.29-02.27.32:455][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.29-02.27.32:465][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.10.29-02.27.32:465][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.29-02.27.32:465][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2020.10.29-02.27.32:465][  0]LogFileHelpers: Loading map 'Template_Default' took 0.081
+[2020.10.29-02.27.32:467][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.855
+[2020.10.29-02.27.32:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-02.27.32:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-02.27.32:627][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-02.27.32:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.29-02.27.32:645][  0]LogCollectionManager: Loaded 0 collections in 0.000616 seconds
+[2020.10.29-02.27.32:657][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/TestForLuciano/Saved/Collections/' took 0.00s
+[2020.10.29-02.27.32:657][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/TestForLuciano/Content/Developers/admin/Collections/' took 0.00s
+[2020.10.29-02.27.32:657][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal/TestForLuciano/Content/Collections/' took 0.00s
+[2020.10.29-02.27.32:657][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 3428 classes and 824 folders.
+[2020.10.29-02.27.32:659][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.29-02.27.32:689][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.29-02.27.32:692][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.10.29-02.27.32:778][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.29-02.27.32:780][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.29-02.27.32:784][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.29-02.27.32:842][  0]LogRenderer: Reallocating scene render targets to support 1576x752 Format 10 NumSamples 1 (Frame:1).
+[2020.10.29-02.27.32:965][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.10.29-02.27.32:965][  0]LogLoad: (Engine Initialization) Total time: 6.35 seconds
+[2020.10.29-02.27.32:965][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.29-02.27.33:002][  0]LogAssetRegistry: Asset discovery search completed in 3.2718 seconds
+[2020.10.29-02.27.33:006][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.10.29-02.27.33:006][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.29-02.27.33:991][ 96]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.29-02.27.38:769][619]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2020.10.29-02.42.45:219][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_BaseColor1': Can't find file.
+[2020.10.29-02.42.45:219][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_BaseColor1': Can't find file.
+[2020.10.29-02.42.45:220][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_Normal1': Can't find file.
+[2020.10.29-02.42.45:220][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_Normal1': Can't find file.
+[2020.10.29-02.42.45:220][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_BaseColor1': Can't find file.
+[2020.10.29-02.42.45:220][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_BaseColor1': Can't find file.
+[2020.10.29-02.42.45:220][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_Normal1': Can't find file.
+[2020.10.29-02.42.45:220][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_Normal1': Can't find file.
+[2020.10.29-02.42.45:221][732]LogLinker: Warning: Failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_BaseColor1': Can't find file.
+[2020.10.29-02.42.45:221][732]LogLinker: Warning: Failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_BaseColor1': Can't find file.
+[2020.10.29-02.42.45:221][732]LogLinker: Warning: Failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_Normal1': Can't find file.
+[2020.10.29-02.42.45:221][732]LogLinker: Warning: Failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_Normal1': Can't find file.
+[2020.10.29-02.42.45:221][732]LogLinker: Warning: Failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_BaseColor1': Can't find file.
+[2020.10.29-02.42.45:221][732]LogLinker: Warning: Failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_BaseColor1': Can't find file.
+[2020.10.29-02.42.45:221][732]LogLinker: Warning: Failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_Normal1': Can't find file.
+[2020.10.29-02.42.45:221][732]LogLinker: Warning: Failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_Normal1': Can't find file.
+[2020.10.29-02.42.45:230][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_BaseColor1': Can't find file.
+[2020.10.29-02.42.45:230][732]LoadErrors: Failed to load /Game/Meshes/T_Broadleaf_Hero_Field_BaseColor1.T_Broadleaf_Hero_Field_BaseColor1 Referenced by BP_Generate_ImposterSprites_11
+[2020.10.29-02.42.45:230][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_BaseColor1': Can't find file.
+[2020.10.29-02.42.45:230][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_Normal1': Can't find file.
+[2020.10.29-02.42.45:230][732]LoadErrors: Failed to load /Game/Meshes/T_Broadleaf_Hero_Field_Normal1.T_Broadleaf_Hero_Field_Normal1 Referenced by BP_Generate_ImposterSprites_11
+[2020.10.29-02.42.45:230][732]LogLinker: Warning: While loading 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap' failed to load '/Game/Meshes/T_Broadleaf_Hero_Field_Normal1': Can't find file.
+[2020.10.29-02.42.45:274][732]LogMaterial: Display: Missing cached shader map for material M_Impostor_SimpleOffset, compiling. 
+[2020.10.29-02.42.45:374][732]LogMaterial: Display: Missing cached shader map for material M_Impostor_SimpleOffset, compiling. 
+[2020.10.29-02.42.45:403][732]LogMaterial: Display: Missing cached shader map for material M_ColorGrid, compiling. 
+[2020.10.29-02.42.45:524][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:524][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:524][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:524][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:524][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:524][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:524][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:524][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:525][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:526][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:526][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:526][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:526][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:526][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:526][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:526][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:526][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:526][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:539][732]LogAssetEditorSubsystem: Opening Asset editor for World /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map
+[2020.10.29-02.42.45:553][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.29-02.42.45:554][732]Cmd: MAP LOAD FILE="E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.29-02.42.45:554][732]LightingResults: New page: Lighting Build
+[2020.10.29-02.42.45:554][732]LoadErrors: New page: Loading map: Generate_Impostor_Map.umap
+[2020.10.29-02.42.45:592][732]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-02.42.45:592][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-02.42.45:592][732]MapCheck: New page: Map Check
+[2020.10.29-02.42.45:592][732]LightingResults: New page: Lighting Build
+[2020.10.29-02.42.45:599][732]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023E260BA000), frame # 38732
+[2020.10.29-02.42.45:600][732]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000023E2571E340), frame # 38732
+[2020.10.29-02.42.45:600][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.10.29-02.42.45:606][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:606][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:607][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:608][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:609][732]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.42.45:657][732]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.29-02.42.45:657][732]LogAIModule: Creating AISystem for world Generate_Impostor_Map
+[2020.10.29-02.42.45:657][732]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000023E5A4AB600), frame # 38732
+[2020.10.29-02.42.45:657][732]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000023E5DB6FB00), frame # 38732
+[2020.10.29-02.42.45:666][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.10.29-02.42.45:676][732]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.29-02.42.45:676][732]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.057ms to complete.
+[2020.10.29-02.42.45:676][732]LogFileHelpers: Loading map 'Generate_Impostor_Map' took 0.122
+[2020.10.29-02.43.01:061][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Environment/Scenes/Foliage/Materials/MaterialChild/MI_tree03a.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:062][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Shaders/Common/MF_CalScaleNormal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:063][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Shaders/Common/MF_HeightDistribution.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:064][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Shaders/Common/MF_MatLayerBlend_Custom.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:066][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Shaders/Common/MF_NoisyBlend.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:067][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Shaders/Common/MF_NormalDistribution.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:068][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Shaders/Environment/MF_UnpackNormal.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:068][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Misc/Grid_D.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:069][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Misc/Grid_LIN.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:070][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Environment/Scenes/Foliage/Textures/T_VillageBark_001_BC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:070][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Environment/Scenes/Foliage/Textures/T_VillageBark_001_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:074][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Shaders/Common/MF_GetPlayerPosition.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:075][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Shaders/Common/Player.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:075][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Shaders/Common/MF_GetPlayerVelocity.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:075][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Shaders/Common/MF_GetWindDir.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:076][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Shaders/Common/WindField.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:078][416]LogLinker: Warning: Asset 'E:/Unreal/TestForLuciano/Content/Seria/Environment/Scenes/Foliage/Textures/T_tree03_BC.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.10.29-02.43.01:203][418]LogActorFactory: Actor Factory created SM_tree03
+[2020.10.29-02.43.01:699][473]LogActorFactory: Actor Factory created SM_tree03
+[2020.10.29-02.43.16:176][ 31]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.29-02.43.28:021][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:021][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:021][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:021][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:021][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:021][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:021][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:021][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:022][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.28:023][363]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 5
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 2
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 1
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 0
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 0
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 0
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 5
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 3
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 3
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 3
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 3
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 2
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 2
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 2
+[2020.10.29-02.43.32:643][562]LogScript: Warning: Script Msg: Divide by zero detected: 2.000000 / 0
+Script call stack:
+	Function /ImpostorBaker/ImpostorBaker/BP/BP_Generate_ImposterSprites.BP_Generate_ImposterSprites_C:2) RenderFrames
+	Function /ImpostorBaker/ImpostorBaker/BP/BP_Generate_ImposterSprites.BP_Generate_ImposterSprites_C:ExecuteUbergraph_BP_Generate_ImposterSprites
+	Function /ImpostorBaker/ImpostorBaker/BP/BP_Generate_ImposterSprites.BP_Generate_ImposterSprites_C:GenerateMeshData
+
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.32:643][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 7
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 5
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 4
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 3
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 0
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 0
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 6
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 6
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 6
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 5
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 4
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 3
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 3
+[2020.10.29-02.43.32:644][562]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 2
+[2020.10.29-02.43.54:685][ 52]LogTexture: Display: Building textures: T_Broadleaf_Hero_Field_BaseColor (RGBA16F, 4096X4096)
+[2020.10.29-02.43.55:714][ 52]LogTexture: Display: Building textures: T_Broadleaf_Hero_Field_BaseColor (AutoDXT, 4096X4096)
+[2020.10.29-02.43.58:832][ 52]LogTexture: Display: Building textures: T_Broadleaf_Hero_Field_Normal (RGBA16F, 4096X4096)
+[2020.10.29-02.43.59:807][ 52]LogTexture: Display: Building textures: T_Broadleaf_Hero_Field_Normal (AutoDXT, 4096X4096)
+[2020.10.29-02.44.27:659][942]LogSlate: Window 'Choose New StaticMesh Location' being destroyed
+[2020.10.29-02.44.27:743][942]LogStaticMesh: Building static mesh ProcMesh2...
+[2020.10.29-02.44.27:787][942]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/ProcMesh2.ProcMesh2
+[2020.10.29-02.44.50:222][613]LogSlate: Window 'FBX Export Options' being destroyed
+[2020.10.29-02.44.50:353][613]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2020.10.29-02.44.55:883][189]AssetReimport: New page: Outstanding source content changes 下午6:44:55
+[2020.10.29-02.44.55:977][190]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:/Unreal/TestForLuciano/Content/Meshes/ProcMesh2FBX.FBX)
+[2020.10.29-02.44.56:072][190]LogFbx: Loading FBX Scene from E:/Unreal/TestForLuciano/Content/Meshes/ProcMesh2FBX.FBX
+[2020.10.29-02.44.56:088][190]LogFbx: FBX Scene Loaded Succesfully
+[2020.10.29-02.44.57:320][190]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.10.29-02.44.57:516][190]LogStaticMesh: Building static mesh ProcMesh2FBX...
+[2020.10.29-02.44.57:520][190]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/ProcMesh2FBX.ProcMesh2FBX
+[2020.10.29-02.44.57:665][190]LogSlate: Took 0.003204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.29-02.44.57:722][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/ProcMesh2FBX" FILE="E:/Unreal/TestForLuciano/Content/Meshes/ProcMesh2FBX.uasset" SILENT=true
+[2020.10.29-02.44.57:734][191]LogSavePackage: Moving 'E:/Unreal/TestForLuciano/Saved/ProcMesh2FBXC50B7B5E488AA8ABC38DC59E839633CF.tmp' to 'E:/Unreal/TestForLuciano/Content/Meshes/ProcMesh2FBX.uasset'
+[2020.10.29-02.44.57:770][192]AssetCheck: New page: Asset Save: ProcMesh2FBX
+[2020.10.29-02.44.57:770][192]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/ProcMesh2FBX.ProcMesh2FBX
+[2020.10.29-02.45.00:755][510]AssetReimport: Importing new asset /Game/Meshes/ProcMesh2FBX.
+[2020.10.29-02.45.01:058][546]LogEditorViewport: Clicking on Component (LMB): ProceduralMeshComponent (ProceduralMesh)
+[2020.10.29-02.45.02:852][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_tree03)
+[2020.10.29-02.45.27:944][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_tree03)
+[2020.10.29-02.45.31:152][708]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Seria/Environment/Scenes/Foliage/Meshes/Trees/SM_tree03.SM_tree03
+[2020.10.29-02.45.31:551][708]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-02.45.31:551][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-02.45.31:756][709]LogRenderer: Reallocating scene render targets to support 1576x988 Format 10 NumSamples 1 (Frame:1).
+[2020.10.29-02.45.37:583][155]LogSavePackage: Moving 'E:/Unreal/TestForLuciano/Saved/SM_tree03953A299F45C9037C650FB892384FB7FE.tmp' to 'E:/Unreal/TestForLuciano/Content/Seria/Environment/Scenes/Foliage/Meshes/Trees/SM_tree03.uasset'
+[2020.10.29-02.45.37:627][155]AssetCheck: New page: Asset Save: SM_tree03
+[2020.10.29-02.45.37:627][155]LogContentValidation: Display: Validating StaticMesh /Game/Seria/Environment/Scenes/Foliage/Meshes/Trees/SM_tree03.SM_tree03
+[2020.10.29-02.45.53:301][808]LogSavePackage: Moving 'E:/Unreal/TestForLuciano/Saved/SM_tree03F8B06E2B4472190D1B1D23B3C360B949.tmp' to 'E:/Unreal/TestForLuciano/Content/Seria/Environment/Scenes/Foliage/Meshes/Trees/SM_tree03.uasset'
+[2020.10.29-02.45.53:314][808]AssetCheck: New page: Asset Save: SM_tree03
+[2020.10.29-02.45.53:314][808]LogContentValidation: Display: Validating StaticMesh /Game/Seria/Environment/Scenes/Foliage/Meshes/Trees/SM_tree03.SM_tree03
+[2020.10.29-02.46.09:772][741]LogEditorViewport: Clicking Background
+[2020.10.29-02.46.22:331][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:332][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:333][193]LogBlueprintUserMessages: [BP_Generate_ImposterSprites_11] 16
+[2020.10.29-02.46.22:334][193]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Generate_Impostor_Map.Generate_Impostor_Map
+[2020.10.29-02.46.22:352][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.10.29-02.46.23:417][193]LogSlate: Window 'Save Content' being destroyed
+[2020.10.29-02.46.23:454][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ImpostorBaker/ImpostorLODs/MI_Broadleaf_Hero_Field" FILE="E:/Unreal/TestForLuciano/Content/ImpostorBaker/ImpostorLODs/MI_Broadleaf_Hero_Field.uasset" SILENT=true
+[2020.10.29-02.46.23:461][193]LogSavePackage: Moving 'E:/Unreal/TestForLuciano/Saved/MI_Broadleaf_Hero_FieldDF1225854DE8DBB54F23D9AE3D6292C7.tmp' to 'E:/Unreal/TestForLuciano/Content/ImpostorBaker/ImpostorLODs/MI_Broadleaf_Hero_Field.uasset'
+[2020.10.29-02.46.23:890][193]LogSavePackage: Moving 'E:/Unreal/TestForLuciano/Saved/T_Broadleaf_Hero_Field_BaseColor9E9BCE0C450BC4265DADA9977659736A.tmp' to 'E:/Unreal/TestForLuciano/Content/ImpostorBaker/ImpostorLODs/T_Broadleaf_Hero_Field_BaseColor.uasset'
+[2020.10.29-02.46.24:333][193]LogSavePackage: Moving 'E:/Unreal/TestForLuciano/Saved/T_Broadleaf_Hero_Field_NormalA58B41FC487A3018223EB288998CE2D3.tmp' to 'E:/Unreal/TestForLuciano/Content/ImpostorBaker/ImpostorLODs/T_Broadleaf_Hero_Field_Normal.uasset'
+[2020.10.29-02.46.24:341][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/ProcMesh2" FILE="E:/Unreal/TestForLuciano/Content/Meshes/ProcMesh2.uasset" SILENT=true
+[2020.10.29-02.46.24:379][193]LogSavePackage: Warning: Obj in another map: BP_Generate_ImposterSprites_C /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11
+[2020.10.29-02.46.24:379][193]LogSavePackage: Warning: Obj in another map: MaterialInstanceDynamic /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.MaterialInstanceDynamic_14
+[2020.10.29-02.46.26:060][193]LogSlate: Window 'Message' being destroyed
+[2020.10.29-02.46.26:066][193]Message dialog closed, result: Yes, title: Message, text: Can't save E:/Unreal/TestForLuciano/Content/Meshes/ProcMesh2.uasset: Graph is linked to object(s) in external map.
+External Object(s):
+BP_Generate_ImposterSprites_11
+MaterialInstanceDynamic_14
+  
+Try to find the chain of references to that object (may take some time)?
+[2020.10.29-02.46.26:075][193]LogSavePackage: Warning: 
+Referencers of BP_Generate_ImposterSprites_C /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11:
+[2020.10.29-02.46.26:125][193]LogSavePackage: Warning: 	StaticMesh /Game/Meshes/ProcMesh2.ProcMesh2 (1 refs)
+[2020.10.29-02.46.26:125][193]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.StaticMaterial:MaterialInterface
+[2020.10.29-02.46.26:125][193]LogSavePackage: Warning: 
+Referencers of MaterialInstanceDynamic /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.MaterialInstanceDynamic_14:
+[2020.10.29-02.46.26:151][193]LogSavePackage: Warning: 	StaticMesh /Game/Meshes/ProcMesh2.ProcMesh2 (1 refs)
+[2020.10.29-02.46.26:151][193]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.StaticMaterial:MaterialInterface
+[2020.10.29-02.46.26:151][193]LogSavePackage: Warning: 	BP_Generate_ImposterSprites_C /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11 (1 refs)
+[2020.10.29-02.46.26:151][193]LogSavePackage: Warning: 		0) ObjectProperty /ImpostorBaker/ImpostorBaker/BP/BP_Generate_ImposterSprites.BP_Generate_ImposterSprites_C:ImpostorPreviewMID
+[2020.10.29-02.46.27:318][193]LogSlate: Window 'Message' being destroyed
+[2020.10.29-02.46.27:323][193]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Meshes/ProcMesh2' (ProcMesh2.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2020.10.29-02.46.27:333][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.10.29-02.46.27:381][193]LogSavePackage: Moving 'E:/Unreal/TestForLuciano/Saved/Generate_Impostor_MapEF897A664347B8A08BD7EC8D85532FAB.tmp' to 'E:/Unreal/TestForLuciano/Plugins/UdemyImposter/Plugins/ImpostorBaker-master/Content/ImpostorBaker/Maps/Generate_Impostor_Map.umap'
+[2020.10.29-02.46.27:405][193]LogFileHelpers: Saving map 'Generate_Impostor_Map' took 0.081
+[2020.10.29-02.46.27:405][193]EditorErrors: New page: Save Output
+[2020.10.29-02.46.27:405][193]EditorErrors: Warning: Object 'BP_Generate_ImposterSprites_C /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11' is in another map
+[2020.10.29-02.46.27:405][193]EditorErrors: Warning: Object 'MaterialInstanceDynamic /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.MaterialInstanceDynamic_14' is in another map
+[2020.10.29-02.46.27:405][193]EditorErrors: Warning: Can't save E:/Unreal/TestForLuciano/Content/Meshes/ProcMesh2.uasset: Graph is linked to object MaterialInstanceDynamic /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.MaterialInstanceDynamic_14 (ImpostorPreviewMID) in external map
+[2020.10.29-02.46.28:210][193]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2020.10.29-02.46.28:215][193]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Meshes/ProcMesh2
+[2020.10.29-02.46.28:215][193]Cmd: MAP LOAD FILE="E:/Unreal/TestForLuciano/Content/Generate_Impostor_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.29-02.46.28:216][193]LightingResults: New page: Lighting Build
+[2020.10.29-02.46.28:216][193]LoadErrors: New page: Loading map: Generate_Impostor_Map.umap
+[2020.10.29-02.46.28:255][193]LogWorld: UWorld::CleanupWorld for Generate_Impostor_Map, bSessionEnded=true, bCleanupResources=true
+[2020.10.29-02.46.28:255][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.29-02.46.28:255][193]MapCheck: New page: Map Check
+[2020.10.29-02.46.28:255][193]LightingResults: New page: Lighting Build
+[2020.10.29-02.46.28:264][193]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000023E5A4AB600), frame # 58193
+[2020.10.29-02.46.28:265][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.10.29-02.46.28:411][193]LogReferenceChain: (standalone) StaticMesh /Game/Meshes/ProcMesh2.ProcMesh2->MaterialInterface
+[2020.10.29-02.46.28:411][193]LogReferenceChain:  MaterialInstanceDynamic /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.MaterialInstanceDynamic_14->Outer
+[2020.10.29-02.46.28:411][193]LogReferenceChain:   BP_Generate_ImposterSprites_C /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11::AddReferencedObjects()
+[2020.10.29-02.46.28:411][193]LogReferenceChain:    DrawFrustumComponent /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.DrawFrustumComponent_3->AttachParent
+[2020.10.29-02.46.28:411][193]LogReferenceChain:     SceneCaptureComponent2D /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.SceneCaptureComponent2D->ShowOnlyActors
+[2020.10.29-02.46.28:411][193]LogReferenceChain:      StaticMeshActor /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.SM_tree03_2->Outer
+[2020.10.29-02.46.28:411][193]LogReferenceChain:       Level /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel->Outer
+[2020.10.29-02.46.28:411][193]LogReferenceChain:        World /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map
+[2020.10.29-02.46.28:411][193]LogReferenceChain:   
+[2020.10.29-02.46.28:411][193]LogEditorServer: Error: Old world /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map not cleaned up by garbage collection while loading new map! Referenced by:
+(standalone) StaticMesh /Game/Meshes/ProcMesh2.ProcMesh2->MaterialInterface
+ MaterialInstanceDynamic /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.MaterialInstanceDynamic_14->Outer
+  BP_Generate_ImposterSprites_C /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11::AddReferencedObjects()
+   DrawFrustumComponent /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.DrawFrustumComponent_3->AttachParent
+    SceneCaptureComponent2D /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.SceneCaptureComponent2D->ShowOnlyActors
+     StaticMeshActor /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.SM_tree03_2->Outer
+      Level /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel->Outer
+       World /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map
+[2020.10.29-02.46.28:445][193]LogReferenceChain: (standalone) StaticMesh /Game/Meshes/ProcMesh2.ProcMesh2->MaterialInterface
+[2020.10.29-02.46.28:445][193]LogReferenceChain:  MaterialInstanceDynamic /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.MaterialInstanceDynamic_14->Outer
+[2020.10.29-02.46.28:445][193]LogReferenceChain:   BP_Generate_ImposterSprites_C /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11::AddReferencedObjects()
+[2020.10.29-02.46.28:445][193]LogReferenceChain:    DrawFrustumComponent /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.DrawFrustumComponent_3->AttachParent
+[2020.10.29-02.46.28:445][193]LogReferenceChain:     SceneCaptureComponent2D /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.SceneCaptureComponent2D->ShowOnlyActors
+[2020.10.29-02.46.28:445][193]LogReferenceChain:      StaticMeshActor /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.SM_tree03_2->Outer
+[2020.10.29-02.46.28:445][193]LogReferenceChain:       Level /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel->LevelScriptBlueprint
+[2020.10.29-02.46.28:445][193]LogReferenceChain:        LevelScriptBlueprint /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.Generate_Impostor_Map->GeneratedClass
+[2020.10.29-02.46.28:445][193]LogReferenceChain:         BlueprintGeneratedClass /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map_C->Outer
+[2020.10.29-02.46.28:445][193]LogReferenceChain:          Package /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map
+[2020.10.29-02.46.28:445][193]LogReferenceChain:   
+[2020.10.29-02.46.28:445][193]LogEditorServer: Error: Old level package /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map not cleaned up by garbage collection while loading new map! Referenced by:
+(standalone) StaticMesh /Game/Meshes/ProcMesh2.ProcMesh2->MaterialInterface
+ MaterialInstanceDynamic /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.MaterialInstanceDynamic_14->Outer
+  BP_Generate_ImposterSprites_C /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11::AddReferencedObjects()
+   DrawFrustumComponent /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.DrawFrustumComponent_3->AttachParent
+    SceneCaptureComponent2D /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.BP_Generate_ImposterSprites_11.SceneCaptureComponent2D->ShowOnlyActors
+     StaticMeshActor /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.SM_tree03_2->Outer
+      Level /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel->LevelScriptBlueprint
+       LevelScriptBlueprint /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map:PersistentLevel.Generate_Impostor_Map->GeneratedClass
+        BlueprintGeneratedClass /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map.Generate_Impostor_Map_C->Outer
+         Package /ImpostorBaker/ImpostorBaker/Maps/Generate_Impostor_Map
+[2020.10.29-02.46.28:449][193]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.10.29-02.46.28:449][193]LogWindows: Windows GetLastError: 操作成功完成。 (0)
